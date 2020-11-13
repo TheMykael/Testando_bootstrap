@@ -1,0 +1,26 @@
+.navbar{
+	background-color: #590059;
+}
+
+.logo_nav{
+	width: 200px;
+	height: 100%;
+}
+
+.nav-link{
+	margin: 20px;
+	margin-right: 10px;
+	background-color: #d9d9d9;
+	border-radius: 5px;
+	border-style: ridge;
+	border-color: #f2f2f2;
+}
+
+.musica_bio{
+	background-color: #d9d9d9;
+	text-align: center;
+}
+
+.margin{
+	padding-top: 100px;
+}
