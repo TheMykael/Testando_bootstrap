@@ -5,22 +5,74 @@
 .logo_nav{
 	width: 200px;
 	height: 100%;
+	border-radius: 400px;
 }
 
 .nav-link{
 	margin: 20px;
 	margin-right: 10px;
 	background-color: #d9d9d9;
+	font-family: "Bebas Neue";
+	font-weight: bold;
+	color: #0d0d0d;
 	border-radius: 5px;
 	border-style: ridge;
 	border-color: #f2f2f2;
+	font-family: 
 }
 
 .musica_bio{
 	background-color: #d9d9d9;
 	text-align: center;
+	font-family: 
 }
 
 .margin{
 	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.image_corpo{
+	width: 400px;
+	height: 100%;
+}
+
+h2{
+	font-family: Impact;
+}
+
+h3{
+	margin-top: 50px;
+	text-decoration: overline;
+	font-style: oblique;
+	font-family: Impact;
+}
+
+.dicas_musicais{
+	background-color: #262626;
+	text-align: center;
+	color: #f2f2f2;
+}
+
+.producao{
+	background-color: #d9d9d9;
+	text-align: center;
+}
+
+.image_section{
+	margin-top: 50px;
+	width: 500px;
+	height: 100%;
+}
+
+.bg_footer{
+	background-color: #0d0d0d;
+	color: #f2f2f2;
+	font-family: Consolas;
+	padding: 25px;
+}
+
+footer, p{
+	text-align: left;
+	vertical-align: bottom;
 }
